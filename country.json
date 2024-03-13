@@ -1,0 +1,16 @@
+[
+    {
+        "alpha_2": "SA",
+        "country_id": 100,
+        "ar_name": "المملكة العربية السعودية",
+        "en_name": "Saudi Arabia",
+        "en_nationality": "Saudi",
+        "ar_nationality": "سعودي",
+        "alpha_3": "SAU",
+        "dial_code": "+966",
+        "currency_code": "SAR",
+        "flag_emoji": "🇸🇦",
+        "flag_url": "https://firebasestorage.googleapis.com/v0/b/murtab-v2.appspot.com/o/country_flags%2Fsa.png?alt=media&token=749ed088-585a-46f1-9186-ec651f9d0aa5",
+       
+    }
+]

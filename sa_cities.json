@@ -1,0 +1,583 @@
+[
+ {
+  "id": 1,
+  "countryId": 100,
+  "nameAr": "تبوك",
+  "nameEn": "Tabuk",
+  "provinceId": 3
+ },
+ {
+  "id": 3,
+  "countryId": 100,
+  "nameAr": "الرياض",
+  "nameEn": "Riyadh",
+  "provinceId": 6
+ },
+ {
+  "id": 5,
+  "countryId": 100,
+  "nameAr": "الطائف",
+  "nameEn": "At Taif",
+  "provinceId": 11
+ },
+ {
+  "id": 6,
+  "countryId": 100,
+  "nameAr": "مكة المكرمة",
+  "nameEn": "Makkah Al Mukarramah",
+  "provinceId": 11
+ },
+ {
+  "id": 10,
+  "countryId": 100,
+  "nameAr": "حائل",
+  "nameEn": "Hail",
+  "provinceId": 4
+ },
+ {
+  "id": 11,
+  "countryId": 100,
+  "nameAr": "بريدة",
+  "nameEn": "Buraydah",
+  "provinceId": 5
+ },
+ {
+  "id": 12,
+  "countryId": 100,
+  "nameAr": "الهفوف",
+  "nameEn": "Al Hufuf",
+  "provinceId": 13
+ },
+ {
+  "id": 13,
+  "countryId": 100,
+  "nameAr": "الدمام",
+  "nameEn": "Ad Dammam",
+  "provinceId": 13
+ },
+ {
+  "id": 14,
+  "countryId": 100,
+  "nameAr": "المدينة المنورة",
+  "nameEn": "Al Madinah Al Munawwarah",
+  "provinceId": 7
+ },
+ {
+  "id": 15,
+  "countryId": 100,
+  "nameAr": "ابها",
+  "nameEn": "Abha",
+  "provinceId": 8
+ },
+ {
+  "id": 17,
+  "countryId": 100,
+  "nameAr": "جازان",
+  "nameEn": "Jazan",
+  "provinceId": 10
+ },
+ {
+  "id": 18,
+  "countryId": 100,
+  "nameAr": "جدة",
+  "nameEn": "Jeddah",
+  "provinceId": 11
+ },
+ {
+  "id": 24,
+  "countryId": 100,
+  "nameAr": "المجمعة",
+  "nameEn": "Al Majmaah",
+  "provinceId": 6
+ },
+ {
+  "id": 31,
+  "countryId": 100,
+  "nameAr": "الخبر",
+  "nameEn": "Al Khubar",
+  "provinceId": 13
+ },
+ {
+  "id": 47,
+  "countryId": 100,
+  "nameAr": "حفر الباطن",
+  "nameEn": "Hafar Al Batin",
+  "provinceId": 13
+ },
+ {
+  "id": 62,
+  "countryId": 100,
+  "nameAr": "خميس مشيط",
+  "nameEn": "Khamis Mushayt",
+  "provinceId": 8
+ },
+ {
+  "id": 65,
+  "countryId": 100,
+  "nameAr": "احد رفيده",
+  "nameEn": "Ahad Rifaydah",
+  "provinceId": 8
+ },
+ {
+  "id": 67,
+  "countryId": 100,
+  "nameAr": "القطيف",
+  "nameEn": "Al Qatif",
+  "provinceId": 13
+ },
+ {
+  "id": 80,
+  "countryId": 100,
+  "nameAr": "عنيزة",
+  "nameEn": "Unayzah",
+  "provinceId": 5
+ },
+ {
+  "id": 89,
+  "countryId": 100,
+  "nameAr": "قرية العليا",
+  "nameEn": "Qaryat Al Ulya",
+  "provinceId": 13
+ },
+ {
+  "id": 113,
+  "countryId": 100,
+  "nameAr": "الجبيل",
+  "nameEn": "Al Jubail",
+  "provinceId": 13
+ },
+ {
+  "id": 115,
+  "countryId": 100,
+  "nameAr": "النعيرية",
+  "nameEn": "An Nuayriyah",
+  "provinceId": 13
+ },
+ {
+  "id": 227,
+  "countryId": 100,
+  "nameAr": "الظهران",
+  "nameEn": "Dhahran",
+  "provinceId": 13
+ },
+ {
+  "id": 233,
+  "countryId": 100,
+  "nameAr": "الوجه",
+  "nameEn": "Al Wajh",
+  "provinceId": 3
+ },
+ {
+  "id": 243,
+  "countryId": 100,
+  "nameAr": "بقيق",
+  "nameEn": "Buqayq",
+  "provinceId": 13
+ },
+ {
+  "id": 270,
+  "countryId": 100,
+  "nameAr": "الزلفي",
+  "nameEn": "Az Zulfi",
+  "provinceId": 6
+ },
+ {
+  "id": 288,
+  "countryId": 100,
+  "nameAr": "خيبر",
+  "nameEn": "Khaybar",
+  "provinceId": 7
+ },
+ {
+  "id": 306,
+  "countryId": 100,
+  "nameAr": "الغاط",
+  "nameEn": "Al Ghat",
+  "provinceId": 6
+ },
+ {
+  "id": 323,
+  "countryId": 100,
+  "nameAr": "املج",
+  "nameEn": "Umluj",
+  "provinceId": 3
+ },
+ {
+  "id": 377,
+  "countryId": 100,
+  "nameAr": "رابغ",
+  "nameEn": "Rabigh",
+  "provinceId": 11
+ },
+ {
+  "id": 418,
+  "countryId": 100,
+  "nameAr": "عفيف",
+  "nameEn": "Afif",
+  "provinceId": 6
+ },
+ {
+  "id": 443,
+  "countryId": 100,
+  "nameAr": "ثادق",
+  "nameEn": "Thadiq",
+  "provinceId": 6
+ },
+ {
+  "id": 454,
+  "countryId": 100,
+  "nameAr": "سيهات",
+  "nameEn": "Sayhat",
+  "provinceId": 13
+ },
+ {
+  "id": 456,
+  "countryId": 100,
+  "nameAr": "تاروت",
+  "nameEn": "Tarut",
+  "provinceId": 13
+ },
+ {
+  "id": 483,
+  "countryId": 100,
+  "nameAr": "ينبع",
+  "nameEn": "Yanbu",
+  "provinceId": 7
+ },
+ {
+  "id": 500,
+  "countryId": 100,
+  "nameAr": "شقراء",
+  "nameEn": "Shaqra",
+  "provinceId": 6
+ },
+ {
+  "id": 669,
+  "countryId": 100,
+  "nameAr": "الدوادمي",
+  "nameEn": "Ad Duwadimi",
+  "provinceId": 6
+ },
+ {
+  "id": 828,
+  "countryId": 100,
+  "nameAr": "الدرعية",
+  "nameEn": "Ad Diriyah",
+  "provinceId": 6
+ },
+ {
+  "id": 880,
+  "countryId": 100,
+  "nameAr": "القويعية",
+  "nameEn": "Quwayiyah",
+  "provinceId": 6
+ },
+ {
+  "id": 990,
+  "countryId": 100,
+  "nameAr": "المزاحمية",
+  "nameEn": "Al Muzahimiyah",
+  "provinceId": 6
+ },
+ {
+  "id": 1053,
+  "countryId": 100,
+  "nameAr": "بدر",
+  "nameEn": "Badr",
+  "provinceId": 7
+ },
+ {
+  "id": 1061,
+  "countryId": 100,
+  "nameAr": "الخرج",
+  "nameEn": "Al Kharj",
+  "provinceId": 6
+ },
+ {
+  "id": 1073,
+  "countryId": 100,
+  "nameAr": "الدلم",
+  "nameEn": "Ad Dilam",
+  "provinceId": 6
+ },
+ {
+  "id": 1228,
+  "countryId": 100,
+  "nameAr": "الشنان",
+  "nameEn": "Ash Shinan",
+  "provinceId": 4
+ },
+ {
+  "id": 1248,
+  "countryId": 100,
+  "nameAr": "الخرمة",
+  "nameEn": "Al Khurmah",
+  "provinceId": 11
+ },
+ {
+  "id": 1257,
+  "countryId": 100,
+  "nameAr": "الجموم",
+  "nameEn": "Al Jumum",
+  "provinceId": 11
+ },
+ {
+  "id": 1294,
+  "countryId": 100,
+  "nameAr": "المجاردة",
+  "nameEn": "Al Majardah",
+  "provinceId": 8
+ },
+ {
+  "id": 1361,
+  "countryId": 100,
+  "nameAr": "السليل",
+  "nameEn": "As Sulayyil",
+  "provinceId": 6
+ },
+ {
+  "id": 1443,
+  "countryId": 100,
+  "nameAr": "تثليث",
+  "nameEn": "Tathilith",
+  "provinceId": 8
+ },
+ {
+  "id": 1514,
+  "countryId": 100,
+  "nameAr": "بيشة",
+  "nameEn": "Bishah",
+  "provinceId": 8
+ },
+ {
+  "id": 1542,
+  "countryId": 100,
+  "nameAr": "الباحة",
+  "nameEn": "Al Baha",
+  "provinceId": 9
+ },
+ {
+  "id": 1625,
+  "countryId": 100,
+  "nameAr": "القنفذة",
+  "nameEn": "Al Qunfidhah",
+  "provinceId": 11
+ },
+ {
+  "id": 1801,
+  "countryId": 100,
+  "nameAr": "محايل",
+  "nameEn": "Muhayil",
+  "provinceId": 8
+ },
+ {
+  "id": 1879,
+  "countryId": 100,
+  "nameAr": "ثول",
+  "nameEn": "Thuwal",
+  "provinceId": 11
+ },
+ {
+  "id": 1947,
+  "countryId": 100,
+  "nameAr": "ضبا",
+  "nameEn": "Duba",
+  "provinceId": 3
+ },
+ {
+  "id": 2156,
+  "countryId": 100,
+  "nameAr": "تربه",
+  "nameEn": "Turbah",
+  "provinceId": 11
+ },
+ {
+  "id": 2167,
+  "countryId": 100,
+  "nameAr": "صفوى",
+  "nameEn": "Safwa",
+  "provinceId": 13
+ },
+ {
+  "id": 2171,
+  "countryId": 100,
+  "nameAr": "عنك",
+  "nameEn": "Inak",
+  "provinceId": 13
+ },
+ {
+  "id": 2208,
+  "countryId": 100,
+  "nameAr": "طريف",
+  "nameEn": "Turaif",
+  "provinceId": 1
+ },
+ {
+  "id": 2213,
+  "countryId": 100,
+  "nameAr": "عرعر",
+  "nameEn": "Arar",
+  "provinceId": 1
+ },
+ {
+  "id": 2226,
+  "countryId": 100,
+  "nameAr": "القريات",
+  "nameEn": "Al Qurayyat",
+  "provinceId": 2
+ },
+ {
+  "id": 2237,
+  "countryId": 100,
+  "nameAr": "سكاكا",
+  "nameEn": "Sakaka",
+  "provinceId": 2
+ },
+ {
+  "id": 2256,
+  "countryId": 100,
+  "nameAr": "رفحاء",
+  "nameEn": "Rafha",
+  "provinceId": 1
+ },
+ {
+  "id": 2268,
+  "countryId": 100,
+  "nameAr": "دومة الجندل",
+  "nameEn": "Dawmat Al Jandal",
+  "provinceId": 2
+ },
+ {
+  "id": 2421,
+  "countryId": 100,
+  "nameAr": "الرس",
+  "nameEn": "Ar Rass",
+  "provinceId": 5
+ },
+ {
+  "id": 2448,
+  "countryId": 100,
+  "nameAr": "المذنب",
+  "nameEn": "Al Midhnab",
+  "provinceId": 5
+ },
+ {
+  "id": 2464,
+  "countryId": 100,
+  "nameAr": "الخفجي",
+  "nameEn": "Al Khafji",
+  "provinceId": 13
+ },
+ {
+  "id": 2467,
+  "countryId": 100,
+  "nameAr": "رياض الخبراء",
+  "nameEn": "Riyad Al Khabra",
+  "provinceId": 5
+ },
+ {
+  "id": 2481,
+  "countryId": 100,
+  "nameAr": "البدائع",
+  "nameEn": "Al Badai",
+  "provinceId": 5
+ },
+ {
+  "id": 2590,
+  "countryId": 100,
+  "nameAr": "رأس تنورة",
+  "nameEn": "Ras Tannurah",
+  "provinceId": 13
+ },
+ {
+  "id": 2630,
+  "countryId": 100,
+  "nameAr": "البكيرية",
+  "nameEn": "Al Bukayriyah",
+  "provinceId": 5
+ },
+ {
+  "id": 2777,
+  "countryId": 100,
+  "nameAr": "الشماسية",
+  "nameEn": "Ash Shimasiyah",
+  "provinceId": 5
+ },
+ {
+  "id": 3158,
+  "countryId": 100,
+  "nameAr": "الحريق",
+  "nameEn": "Al Hariq",
+  "provinceId": 6
+ },
+ {
+  "id": 3161,
+  "countryId": 100,
+  "nameAr": "حوطة بني تميم",
+  "nameEn": "Hawtat Bani Tamim",
+  "provinceId": 6
+ },
+ {
+  "id": 3174,
+  "countryId": 100,
+  "nameAr": "ليلى",
+  "nameEn": "Layla",
+  "provinceId": 6
+ },
+ {
+  "id": 3275,
+  "countryId": 100,
+  "nameAr": "بللسمر",
+  "nameEn": "Billasmar",
+  "provinceId": 8
+ },
+ {
+  "id": 3347,
+  "countryId": 100,
+  "nameAr": "شرورة",
+  "nameEn": "Sharurah",
+  "provinceId": 12
+ },
+ {
+  "id": 3417,
+  "countryId": 100,
+  "nameAr": "نجران",
+  "nameEn": "Najran",
+  "provinceId": 12
+ },
+ {
+  "id": 3479,
+  "countryId": 100,
+  "nameAr": "صبيا",
+  "nameEn": "Sabya",
+  "provinceId": 10
+ },
+ {
+  "id": 3525,
+  "countryId": 100,
+  "nameAr": "ابو عريش",
+  "nameEn": "Abu Arish",
+  "provinceId": 10
+ },
+ {
+  "id": 3542,
+  "countryId": 100,
+  "nameAr": "صامطة",
+  "nameEn": "Samtah",
+  "provinceId": 10
+ },
+ {
+  "id": 3652,
+  "countryId": 100,
+  "nameAr": "احد المسارحة",
+  "nameEn": "Ahad Al Musarihah",
+  "provinceId": 10
+ },
+ {
+  "id": 3666,
+  "countryId": 100,
+  "nameAr": "مدينة الملك عبدالله الاقتصادية",
+  "nameEn": "King Abdullah Economic City",
+  "provinceId": 11
+ }
+]
